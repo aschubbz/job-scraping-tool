@@ -1,0 +1,9 @@
+group_name,specialities,job_count,total_applicants,total_spents,average_reviews,average_duration_weeks,average_min_budget,average_max_budget
+Scripting Languages,['Scripting & Automation'],4903,45850,469884988.6200003,4.77975645114526,23.39567233384853,15.424139851485148,34.68274752475247
+Coding Languages,['Coding Tutoring'],421,3793,32623875.10000002,4.805756578947369,23.62402088772846,17.39673913043478,38.90217391304348
+Full Stack Development Skills,['Full Stack Development'],109,1173,12346320.790000001,4.80564705882353,24.65934065934066,16.00016129032258,33.25806451612903
+Full Stack Development Languages,['Full Stack Development'],109,1155,7264219.4799999995,4.762394366197183,17.638297872340427,14.545454545454545,31.649350649350648
+Data Mining Skills,['Data Mining'],10,71,433398.07999999996,4.935,17.8,5.428571428571429,9.428571428571429
+Full Stack Development Deliverables,['Full Stack Development'],1,9,135.99,0.0,52.0,10.0,30.0
+Web Design Skills,['Web Design'],2,20,83497.24,4.84,52.0,18.0,40.0
+Scripting & Automation Deliverables,['Scripting & Automation'],1,19,19451.1,4.98,9.0,0.0,0.0
